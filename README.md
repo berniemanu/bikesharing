@@ -21,7 +21,7 @@ The data driven visualizations can be found int he link below.
 * The chart below shows the trips broke down by weekday by hour by gender. This will help the bike sharing company plan its resources and be ready to address customer demands by gender.
 ![image](https://user-images.githubusercontent.com/104685001/184117107-8dee46cb-63b5-4b23-a432-7a6440f5cedd.png)
 
-* The chart below shows the trips broke down by customer types, genders across weekdays. This will help the bike sharing company not just planning its resources and be ready to address customer demands by gender, also in pricing different payment plans as per usage.
+* The chart below shows the trips broken down by customer types, genders across weekdays. This will help the bike sharing company not just planning its resources and be ready to address customer demands by gender, also in pricing different payment plans as per usage.
 ![image](https://user-images.githubusercontent.com/104685001/184117218-68ceb819-f4ad-4ec6-abda-3371f4247fea.png)
 
 * This chart shows how the NYC bike sharing company has more subscribers than customers, making profitability highly visible.
