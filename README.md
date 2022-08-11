@@ -5,11 +5,10 @@ NYC Bike Sharing business is a profitable and environmentally friendly business 
 
 ## Data Driven Story:
 The data driven visualizations can be found int he link below.
+
 [link to dashboard] https://public.tableau.com/app/profile/bernie2684/viz/BikeSharing_16602132969260/BikeSharing?publish=yes
 
 ## Results:
-There are at least seven visualizations for the NYC Citibike analysis (7 pt)
-There is a description of the results for each visualization (7 pt)
 * The chart below shows the checkout times for all users. This chart shows most of the users share the bike for 30 minutes or less.
 ![image](https://user-images.githubusercontent.com/104685001/184115876-1f49563c-f53f-44bc-9cf7-84615997415a.png)
 
